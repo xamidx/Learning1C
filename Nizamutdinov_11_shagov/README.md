@@ -1,4 +1,8 @@
 ## test3
+```python
+print("Hello")
+```
+
 ```1c
 НашаДата = ""; 
 
